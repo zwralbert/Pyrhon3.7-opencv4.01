@@ -3,7 +3,7 @@ pycharm
 (little excitied)
 13.py效果:
 
-![avatar](picture/13.png)
+![avatar](13.png)
 
 
 
@@ -15,4 +15,4 @@ pycharm
 14.py效果:
 
 
-![avatar](picture/14.png)
+![avatar](14.png)
