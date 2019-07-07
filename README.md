@@ -22,3 +22,15 @@
 17.py效果:
 ![avatar](17.png)
 ![avatar](17.1.png)
+
+
+18.py效果:
+![avatar](18.png)
+
+19.py效果:
+![avatar](19.png)
+
+
+20.py效果:
+![avatar](20.png)
+![avatar](20.1.png)
