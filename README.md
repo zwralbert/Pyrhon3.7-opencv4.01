@@ -2,10 +2,9 @@
 学习网站：https://www.bilibili.com/video/av24998616/?p=26
 
 编程环境：pycharm
-
+需要的一些库numpy opencv2 pytesseract matplotlib
 人脸检测的API包：haarcascade_frontalface_alt_tree.xml
-
-色彩空间转化HSV时找颜色阈值：
+色彩空间转化HSV时找颜色的阈值：
 ![avatar](2018.jpg)
 
 
