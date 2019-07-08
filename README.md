@@ -2,7 +2,7 @@
 学习网站：https://www.bilibili.com/video/av24998616/?p=26
 
 编程环境：pycharm
-
+人脸检测的API包：haarcascade_frontalface_alt_tree.xml
 
 
 13.py效果:
